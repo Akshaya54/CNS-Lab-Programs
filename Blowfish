@@ -19,7 +19,7 @@ public class BlowfishSimple {
     }
 }
 
-## output
+## output :
 Original : abcdef
 Encrypted: EmROl0iDj24=
 Decrypted: abcdef
